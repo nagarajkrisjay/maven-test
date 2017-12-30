@@ -1,0 +1,274 @@
+Users\Training\Desktop\Courses\Jenkins\Course 6\0607 Dependency Triggered Builds\Dependency Triggered Builds
+   │
+   ├[maven-test]
+   │   │
+   │   ├[.git]
+   │   │   │
+   │   │   ├[hooks]
+   │   │   │   │
+   │   │   │   ├applypatch-msg
+   │   │   │   ├commit-msg
+   │   │   │   ├post-update
+   │   │   │   ├pre-applypatch
+   │   │   │   ├pre-commit
+   │   │   │   ├pre-push
+   │   │   │   ├pre-rebase
+   │   │   │   ├pre-receive
+   │   │   │   ├prepare-commit-msg
+   │   │   │   └update
+   │   │   ├[info]
+   │   │   │   │
+   │   │   │   └exclude
+   │   │   ├[logs]
+   │   │   │   │
+   │   │   │   ├[refs]
+   │   │   │   │   │
+   │   │   │   │   └[heads]
+   │   │   │   │       │
+   │   │   │   │       └master
+   │   │   │   └HEAD
+   │   │   ├[objects]
+   │   │   │   │
+   │   │   │   ├[02]
+   │   │   │   │   │
+   │   │   │   │   └2c99c6028b07ca346ddf1fd16a1b3bff16b910
+   │   │   │   ├[13]
+   │   │   │   │   │
+   │   │   │   │   ├b3428acd87c3f94042e61eed221c15ce682bfa
+   │   │   │   │   └da16f5d801595e2b1bd9973d45f897afba0573
+   │   │   │   ├[16]
+   │   │   │   │   │
+   │   │   │   │   └7491e5a0d1aea348c87aff61bd282fc4d95a26
+   │   │   │   ├[28]
+   │   │   │   │   │
+   │   │   │   │   └befec62c74b9d953519e5cd629e0a073151c34
+   │   │   │   ├[39]
+   │   │   │   │   │
+   │   │   │   │   └dbf9d38cbab4b40eee4dc961c481b04b321f84
+   │   │   │   ├[3c]
+   │   │   │   │   │
+   │   │   │   │   └364f4b00e9c4179abf6a22af27a960841e0626
+   │   │   │   ├[40]
+   │   │   │   │   │
+   │   │   │   │   └49b12ab4fb5a20c1ca2865c8b9146bc6499d63
+   │   │   │   ├[47]
+   │   │   │   │   │
+   │   │   │   │   └9c72579e09a20ace51583f871bf2f1f75955bb
+   │   │   │   ├[53]
+   │   │   │   │   │
+   │   │   │   │   └60465fbf5cec84f08eab1bdce7ffba741a1ca6
+   │   │   │   ├[6d]
+   │   │   │   │   │
+   │   │   │   │   └819d38e2cfa559bebe0a73bce1c1d6925ff3a5
+   │   │   │   ├[72]
+   │   │   │   │   │
+   │   │   │   │   └40e74a16780b0d273faf3482be5b3a31844bf8
+   │   │   │   ├[81]
+   │   │   │   │   │
+   │   │   │   │   └dd5e820033eeb38f6445ffe38b856668dc6b72
+   │   │   │   ├[8d]
+   │   │   │   │   │
+   │   │   │   │   └ee4f361b692620ce478177a5e54ce7b8ae8705
+   │   │   │   ├[94]
+   │   │   │   │   │
+   │   │   │   │   └894ccaba39f65c2662bcd629331b20916ee25f
+   │   │   │   ├[95]
+   │   │   │   │   │
+   │   │   │   │   └855871f12334e325c2bc2094ad039cde60f667
+   │   │   │   ├[9d]
+   │   │   │   │   │
+   │   │   │   │   └6be58424fc393e4bbc4f4fe7217b0bdfbb6da6
+   │   │   │   ├[a5]
+   │   │   │   │   │
+   │   │   │   │   └75e73b863decc8882666c911ed1f0c7ae68977
+   │   │   │   ├[b7]
+   │   │   │   │   │
+   │   │   │   │   └15b7db44184015d5568daae75e68c418ff60cf
+   │   │   │   ├[ba]
+   │   │   │   │   │
+   │   │   │   │   └8fbd96df9e51efb3ecd53510ef994e0ab8ecd6
+   │   │   │   ├[ca]
+   │   │   │   │   │
+   │   │   │   │   └89766cc8fa76417d366294c1656fe6c2025c9a
+   │   │   │   ├[de]
+   │   │   │   │   │
+   │   │   │   │   └a3e9648dbbefa7d6920ee9850dacb0c7a4c143
+   │   │   │   ├[f8]
+   │   │   │   │   │
+   │   │   │   │   └97a7f1cb2389f85fe6381425d29f0a9866fb65
+   │   │   │   ├[f9]
+   │   │   │   │   │
+   │   │   │   │   └34eccf9906c54dec83664e855129946d922ae6
+   │   │   │   ├[info]
+   │   │   │   └[pack]
+   │   │   ├[refs]
+   │   │   │   │
+   │   │   │   ├[heads]
+   │   │   │   │   │
+   │   │   │   │   └master
+   │   │   │   └[tags]
+   │   │   ├COMMIT_EDITMSG
+   │   │   ├config
+   │   │   ├description
+   │   │   ├HEAD
+   │   │   └index
+   │   ├[.settings]
+   │   │   │
+   │   │   ├org.eclipse.jdt.core
+   │   │   └org.eclipse.m2e.core
+   │   ├[src]
+   │   │   │
+   │   │   ├[main]
+   │   │   │   │
+   │   │   │   ├[java]
+   │   │   │   │   │
+   │   │   │   │   └[com]
+   │   │   │   │       │
+   │   │   │   │       └[oreilly]
+   │   │   │   │           │
+   │   │   │   │           └[jenkins]
+   │   │   │   │               │
+   │   │   │   │               └HelloWorldMaven
+   │   │   │   └[resources]
+   │   │   └[test]
+   │   │       │
+   │   │       ├[java]
+   │   │       └[resources]
+   │   ├
+   │   ├
+   │   └pom
+   └[maven-test-dependency]
+       │
+       ├[.git]
+       │   │
+       │   ├[hooks]
+       │   │   │
+       │   │   ├applypatch-msg
+       │   │   ├commit-msg
+       │   │   ├post-update
+       │   │   ├pre-applypatch
+       │   │   ├pre-commit
+       │   │   ├pre-push
+       │   │   ├pre-rebase
+       │   │   ├pre-receive
+       │   │   ├prepare-commit-msg
+       │   │   └update
+       │   ├[info]
+       │   │   │
+       │   │   └exclude
+       │   ├[logs]
+       │   │   │
+       │   │   ├[refs]
+       │   │   │   │
+       │   │   │   └[heads]
+       │   │   │       │
+       │   │   │       └master
+       │   │   └HEAD
+       │   ├[objects]
+       │   │   │
+       │   │   ├[06]
+       │   │   │   │
+       │   │   │   ├ae681e4f9e776f66c5de27b639dee3bd4de54c
+       │   │   │   └bbef1bf2b49201713f81c5439680672c3ae4f0
+       │   │   ├[0e]
+       │   │   │   │
+       │   │   │   └163541a90e1f7ecd220eaf5e4ac874daaf2b9c
+       │   │   ├[14]
+       │   │   │   │
+       │   │   │   └b0eee9270f951c75c21a7ebe648c8eafdadb3a
+       │   │   ├[1a]
+       │   │   │   │
+       │   │   │   └2b4281b38dc9cd6ceabd437d47dd6c2a9e43ad
+       │   │   ├[26]
+       │   │   │   │
+       │   │   │   └7b0d3ba92d1a9d0dc8aef9d43022eeddcfbe84
+       │   │   ├[3c]
+       │   │   │   │
+       │   │   │   └6de0913d98abafc335f7504b653e2cfe5e8abd
+       │   │   ├[49]
+       │   │   │   │
+       │   │   │   └72ddde343cdaab0ce4fe05616dc42fd8316099
+       │   │   ├[4a]
+       │   │   │   │
+       │   │   │   └d8a26eefbec6b1d4f35a10a9e7a3f2577c2402
+       │   │   ├[6d]
+       │   │   │   │
+       │   │   │   └ce2933de7fb493cfd7250dcc0de0db2a709d1a
+       │   │   ├[7f]
+       │   │   │   │
+       │   │   │   └f4c4da878f178c7c5fe64d57b34aed13aea173
+       │   │   ├[80]
+       │   │   │   │
+       │   │   │   └b4498ef6322ac022a7a49235483547443bf73a
+       │   │   ├[87]
+       │   │   │   │
+       │   │   │   └a276382ac275dfa5f9c1225451a23a5f2540eb
+       │   │   ├[9f]
+       │   │   │   │
+       │   │   │   └c2de7b0d0349e37851f9f7b3248bfb0ec94c21
+       │   │   ├[ab]
+       │   │   │   │
+       │   │   │   └ec6ca389ac6331e1f6466d9f67c8dd3406fb5a
+       │   │   ├[b4]
+       │   │   │   │
+       │   │   │   └f7991f76dedeeea148e3a74d28b1b0f3c629bb
+       │   │   ├[b7]
+       │   │   │   │
+       │   │   │   └7cd3e8fc57bdee50f5172ee5ad18a1e6a0cbc5
+       │   │   ├[bb]
+       │   │   │   │
+       │   │   │   └49b0a0ea41fed3d5a05ff6f3cfc18ea2f9119c
+       │   │   ├[e4]
+       │   │   │   │
+       │   │   │   ├3c6cb07cfee7210d0b63113ea001dc5a6b4f8c
+       │   │   │   └5c5090d939e9531a725b7c21d1d940cbbe5466
+       │   │   ├[e5]
+       │   │   │   │
+       │   │   │   └23d890915a30d304ca220d509bbe752f774be6
+       │   │   ├[f8]
+       │   │   │   │
+       │   │   │   └97a7f1cb2389f85fe6381425d29f0a9866fb65
+       │   │   ├[fd]
+       │   │   │   │
+       │   │   │   └2edda67a20ac20348e49a81f473cb1bc13b93c
+       │   │   ├[ff]
+       │   │   │   │
+       │   │   │   └36a41064904ec22efad4f5fc6bc400ccad978a
+       │   │   ├[info]
+       │   │   └[pack]
+       │   ├[refs]
+       │   │   │
+       │   │   ├[heads]
+       │   │   │   │
+       │   │   │   └master
+       │   │   └[tags]
+       │   ├COMMIT_EDITMSG
+       │   ├config
+       │   ├description
+       │   ├HEAD
+       │   └index
+       ├[.settings]
+       │   │
+       │   ├org.eclipse.jdt.core
+       │   └org.eclipse.m2e.core
+       ├[src]
+       │   │
+       │   ├[main]
+       │   │   │
+       │   │   ├[java]
+       │   │   │   │
+       │   │   │   └[com]
+       │   │   │       │
+       │   │   │       └[oreilly]
+       │   │   │           │
+       │   │   │           └[jenkins]
+       │   │   │               │
+       │   │   │               └MessageSource
+       │   │   └[resources]
+       │   └[test]
+       │       │
+       │       ├[java]
+       │       └[resources]
+       ├
+       ├
+       └pom

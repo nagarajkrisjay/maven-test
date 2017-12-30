@@ -1,0 +1,300 @@
+Users\Training\Desktop\Courses\Jenkins\Course 6\0608 Multi Module Projects\multi-module-root
+   │
+   ├[.git]
+   │   │
+   │   ├[hooks]
+   │   │   │
+   │   │   ├applypatch-msg
+   │   │   ├commit-msg
+   │   │   ├post-update
+   │   │   ├pre-applypatch
+   │   │   ├pre-commit
+   │   │   ├pre-push
+   │   │   ├pre-rebase
+   │   │   ├pre-receive
+   │   │   ├prepare-commit-msg
+   │   │   └update
+   │   ├[info]
+   │   │   │
+   │   │   └exclude
+   │   ├[logs]
+   │   │   │
+   │   │   ├[refs]
+   │   │   │   │
+   │   │   │   └[heads]
+   │   │   │       │
+   │   │   │       └master
+   │   │   └HEAD
+   │   ├[objects]
+   │   │   │
+   │   │   ├[04]
+   │   │   │   │
+   │   │   │   └fa2f98b1b7cf3a352e163e36be4363ba99f70e
+   │   │   ├[0d]
+   │   │   │   │
+   │   │   │   └ea08e4b41cd8158cadda90d6197d3dd0481e74
+   │   │   ├[0f]
+   │   │   │   │
+   │   │   │   └cb810cdc49a2aa11e6d3da9cdb284682a8b881
+   │   │   ├[1c]
+   │   │   │   │
+   │   │   │   └b22f2bcbc56f2bd7637ee2aabc7a383e7ae701
+   │   │   ├[22]
+   │   │   │   │
+   │   │   │   └2b5b0e43ad8d54f3d9a473db721d419dd7872f
+   │   │   ├[2a]
+   │   │   │   │
+   │   │   │   └589f7dec88aafea35cf40d0a2c36124d347d99
+   │   │   ├[2d]
+   │   │   │   │
+   │   │   │   └7fd6a8406c1607c6a8bb1398595ee3f84f24c2
+   │   │   ├[3a]
+   │   │   │   │
+   │   │   │   └8b24b1ca19019ac74c1e2d52485055fa18c4f7
+   │   │   ├[3d]
+   │   │   │   │
+   │   │   │   └e770b35999901ddbe764cab0c76ff499623a70
+   │   │   ├[40]
+   │   │   │   │
+   │   │   │   └7fcb78f1a2d3328278e3ba99885ef1d0a73437
+   │   │   ├[48]
+   │   │   │   │
+   │   │   │   └df7aa4a1e9481eab30b6741883999c8a8e89d5
+   │   │   ├[4d]
+   │   │   │   │
+   │   │   │   └5765215a5bf3ec15488da1d7ebbce6980f2048
+   │   │   ├[4e]
+   │   │   │   │
+   │   │   │   └85d8ceaea6a5fcdcd77dc0d0b6d16057cc4f62
+   │   │   ├[50]
+   │   │   │   │
+   │   │   │   ├07910f7c99e2eaa82b35010aefc6c188779f47
+   │   │   │   └40351ed3f8128a11357a370d5252484990abb3
+   │   │   ├[54]
+   │   │   │   │
+   │   │   │   └62dc49a401fafbd121ba876ac989a4f9560f64
+   │   │   ├[5f]
+   │   │   │   │
+   │   │   │   └95617ac2e44e6de213e68ce8c38f532357a6c1
+   │   │   ├[60]
+   │   │   │   │
+   │   │   │   └4b59244003a37e8255c30304455bc725e7b82d
+   │   │   ├[61]
+   │   │   │   │
+   │   │   │   └18c56e263f261bcb47be4acb01df086a2d4adc
+   │   │   ├[66]
+   │   │   │   │
+   │   │   │   └bc9d46b3f7122967fcbe9edcd1190d085af5d0
+   │   │   ├[6c]
+   │   │   │   │
+   │   │   │   └065ca4ec672801637c822035c62a2e7b94f884
+   │   │   ├[73]
+   │   │   │   │
+   │   │   │   └f81ca703bb2beb85433f8f52585270eb3b1d02
+   │   │   ├[76]
+   │   │   │   │
+   │   │   │   └9e4daf11cf3f32e532b2e5705a9675a72031f2
+   │   │   ├[7d]
+   │   │   │   │
+   │   │   │   └37a58e8dadcda21ef2f72b93a253e7823ba80b
+   │   │   ├[80]
+   │   │   │   │
+   │   │   │   └ce0ad690b6936c8d1b98933465df0c6947d569
+   │   │   ├[89]
+   │   │   │   │
+   │   │   │   └116eb8d3848203e226573da383b20ec7fa7ed9
+   │   │   ├[8f]
+   │   │   │   │
+   │   │   │   └c2faeffd896fe3308d0685eb9790ea4c954d60
+   │   │   ├[93]
+   │   │   │   │
+   │   │   │   └a7738d369b6c3f301ac6760227bb03f2b49e59
+   │   │   ├[94]
+   │   │   │   │
+   │   │   │   └058aa9abf65b872999a287850105cbf5347382
+   │   │   ├[95]
+   │   │   │   │
+   │   │   │   └acb24b49f2eb9de5475d916ba7cc5a1b18e90d
+   │   │   ├[9f]
+   │   │   │   │
+   │   │   │   └c2de7b0d0349e37851f9f7b3248bfb0ec94c21
+   │   │   ├[a9]
+   │   │   │   │
+   │   │   │   └19dd028dc87e28afe258d79422b0f7170ca40a
+   │   │   ├[ab]
+   │   │   │   │
+   │   │   │   └ec6ca389ac6331e1f6466d9f67c8dd3406fb5a
+   │   │   ├[af]
+   │   │   │   │
+   │   │   │   └fa292af3e1d4288c19aaf5e1194a59eed47821
+   │   │   ├[b4]
+   │   │   │   │
+   │   │   │   ├0c437881c43d729d9b2015be4a160fc667c78e
+   │   │   │   └850a174e176e8339ee0049d5cc0c57fc4afe9a
+   │   │   ├[b6]
+   │   │   │   │
+   │   │   │   └885c602a3347c2586661decf0adbe43979a6d1
+   │   │   ├[b8]
+   │   │   │   │
+   │   │   │   └ef5649ed1391acaf3a99ebd0147ce1533f9bf8
+   │   │   ├[bc]
+   │   │   │   │
+   │   │   │   └704b9d4959626789723e89bb895e0fe9f9b43c
+   │   │   ├[c2]
+   │   │   │   │
+   │   │   │   └6e41f34967ec8e0d9f157ab8d92d8775a17dc4
+   │   │   ├[c3]
+   │   │   │   │
+   │   │   │   └efee13bb166a4c6efb6083eae6ecc5cb502932
+   │   │   ├[c4]
+   │   │   │   │
+   │   │   │   └f7dda4853a3734c2a6899c62bf52ea2b47bbfb
+   │   │   ├[cb]
+   │   │   │   │
+   │   │   │   └b96631cfbc4b194057e216fc51e77662879e82
+   │   │   ├[d3]
+   │   │   │   │
+   │   │   │   └a0741883aea66283870f88b1c9f04768a23661
+   │   │   ├[d7]
+   │   │   │   │
+   │   │   │   └35f63e607c2e1216cb19ffc18b9f3eb031076e
+   │   │   ├[de]
+   │   │   │   │
+   │   │   │   └934c981521b1106fa5fc2ec4ad2a9c42a79213
+   │   │   ├[e6]
+   │   │   │   │
+   │   │   │   └75e4233897178666a5a1be423eb1b8ed25eec5
+   │   │   ├[f0]
+   │   │   │   │
+   │   │   │   └c7126936d5c7342f9a0ce2ab3aa98675795a42
+   │   │   ├[f4]
+   │   │   │   │
+   │   │   │   └466b35095f7aea4b4012f122d41e11c2798157
+   │   │   ├[f8]
+   │   │   │   │
+   │   │   │   ├83f702fe68657ffb800215b4205f55e6fa43c4
+   │   │   │   └97a7f1cb2389f85fe6381425d29f0a9866fb65
+   │   │   ├[ff]
+   │   │   │   │
+   │   │   │   └36a41064904ec22efad4f5fc6bc400ccad978a
+   │   │   ├[info]
+   │   │   └[pack]
+   │   ├[refs]
+   │   │   │
+   │   │   ├[heads]
+   │   │   │   │
+   │   │   │   └master
+   │   │   └[tags]
+   │   ├COMMIT_EDITMSG
+   │   ├config
+   │   ├description
+   │   ├HEAD
+   │   └index
+   ├[.settings]
+   │   │
+   │   └org.eclipse.m2e.core
+   ├[multi-module-one]
+   │   │
+   │   ├[.settings]
+   │   │   │
+   │   │   ├org.eclipse.jdt.core
+   │   │   └org.eclipse.m2e.core
+   │   ├[src]
+   │   │   │
+   │   │   ├[main]
+   │   │   │   │
+   │   │   │   ├[java]
+   │   │   │   │   │
+   │   │   │   │   └[com]
+   │   │   │   │       │
+   │   │   │   │       └[oreilly]
+   │   │   │   │           │
+   │   │   │   │           └[jenkins]
+   │   │   │   │               │
+   │   │   │   │               └HelloWorldMavenModule
+   │   │   │   └[resources]
+   │   │   └[test]
+   │   │       │
+   │   │       ├[java]
+   │   │       └[resources]
+   │   ├[target]
+   │   │   │
+   │   │   ├[classes]
+   │   │   │   │
+   │   │   │   ├[com]
+   │   │   │   │   │
+   │   │   │   │   └[oreilly]
+   │   │   │   │       │
+   │   │   │   │       └[jenkins]
+   │   │   │   │           │
+   │   │   │   │           └HelloWorldMavenModule
+   │   │   │   └[META-INF]
+   │   │   │       │
+   │   │   │       ├[maven]
+   │   │   │       │   │
+   │   │   │       │   └[com.oreilly.jenkins]
+   │   │   │       │       │
+   │   │   │       │       └[multi-module-one]
+   │   │   │       │           │
+   │   │   │       │           ├pom
+   │   │   │       │           └pom
+   │   │   │       └MANIFEST
+   │   │   └[test-classes]
+   │   ├
+   │   ├
+   │   └pom
+   ├[multi-module-two]
+   │   │
+   │   ├[.settings]
+   │   │   │
+   │   │   ├org.eclipse.jdt.core
+   │   │   └org.eclipse.m2e.core
+   │   ├[src]
+   │   │   │
+   │   │   ├[main]
+   │   │   │   │
+   │   │   │   ├[java]
+   │   │   │   │   │
+   │   │   │   │   └[com]
+   │   │   │   │       │
+   │   │   │   │       └[oreilly]
+   │   │   │   │           │
+   │   │   │   │           └[jenkins]
+   │   │   │   │               │
+   │   │   │   │               └MessageSource
+   │   │   │   └[resources]
+   │   │   └[test]
+   │   │       │
+   │   │       ├[java]
+   │   │       └[resources]
+   │   ├[target]
+   │   │   │
+   │   │   ├[classes]
+   │   │   │   │
+   │   │   │   ├[com]
+   │   │   │   │   │
+   │   │   │   │   └[oreilly]
+   │   │   │   │       │
+   │   │   │   │       └[jenkins]
+   │   │   │   │           │
+   │   │   │   │           └MessageSource
+   │   │   │   └[META-INF]
+   │   │   │       │
+   │   │   │       ├[maven]
+   │   │   │       │   │
+   │   │   │       │   └[com.oreilly.jenkins]
+   │   │   │       │       │
+   │   │   │       │       └[multi-module-two]
+   │   │   │       │           │
+   │   │   │       │           ├pom
+   │   │   │       │           └pom
+   │   │   │       └MANIFEST
+   │   │   └[test-classes]
+   │   ├
+   │   ├
+   │   └pom
+   ├[src]
+   │   │
+   │   └[site]
+   ├
+   └pom
